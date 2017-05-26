@@ -1,0 +1,11 @@
+C:\Users\lelong37\Source\Repos\uowrepo\main\Source\Repository.Pattern\bin\Debug\Repository.Pattern.dll.config
+C:\Users\lelong37\Source\Repos\uowrepo\main\Source\Repository.Pattern\bin\Debug\Repository.Pattern.dll
+C:\Users\lelong37\Source\Repos\uowrepo\main\Source\Repository.Pattern\bin\Debug\Repository.Pattern.pdb
+C:\Users\lelong37\Source\Repos\uowrepo\main\Source\Repository.Pattern\obj\Debug\Repository.Pattern.dll
+C:\Users\lelong37\Source\Repos\uowrepo\main\Source\Repository.Pattern\obj\Debug\Repository.Pattern.pdb
+C:\Users\lelong37\Source\Repos\uowrepo\main\Source\Repository.Pattern\obj\Debug\Repository.Pattern.csprojResolveAssemblyReference.cache
+D:\_GenericRepositoryAndUnitOfWorkPattern\Source\Repository.Pattern\bin\Debug\Repository.Pattern.dll.config
+D:\_GenericRepositoryAndUnitOfWorkPattern\Source\Repository.Pattern\bin\Debug\Repository.Pattern.dll
+D:\_GenericRepositoryAndUnitOfWorkPattern\Source\Repository.Pattern\bin\Debug\Repository.Pattern.pdb
+D:\_GenericRepositoryAndUnitOfWorkPattern\Source\Repository.Pattern\obj\Debug\Repository.Pattern.dll
+D:\_GenericRepositoryAndUnitOfWorkPattern\Source\Repository.Pattern\obj\Debug\Repository.Pattern.pdb
